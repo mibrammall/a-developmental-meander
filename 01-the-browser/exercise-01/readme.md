@@ -16,7 +16,7 @@ As for extensions, the [Live Server](https://marketplace.visualstudio.com/items?
 
 We have in `index.html` a rather bare HTML document. We are going to make it a little less bare. If you don't know how to do something, it's encouraged that you use a search engine to find out. Using a search engine effectively is a good skill to have for software development, as is the ability to read information critically. Don't copy and paste from sites like stackoverflow blindly, but understand how the solution you're interested in solves that problem that you have.
 
-The aim of these exercises is to develop an appreciation of semantic HTML
+The aim of these exercises is to develop an appreciation of semantic HTML. Try and work through them without peeking, but if you get stuck because either you don't follow or the instructions are unclear, there is an example solution [here](example-output.html)
 
 1) Find out how to add a title tag to the `<head>` tag. What do you notice about the tab in the browser?
 
